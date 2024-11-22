@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Rashiyamani 10:53 React
+          Learn Rashiyamani 04:55 React
         </a>
       </header>
     </div>
